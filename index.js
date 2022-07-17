@@ -10,6 +10,7 @@ function save()
     savev=savev+","+count;
     document.getElementById("show").innerHTML=savev;
     document.getElementById("count-el").innerHTML=0;
+    count=0;
 }
 function reset()
 {
