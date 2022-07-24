@@ -1,0 +1,31 @@
+body{
+    background-image:url(https://cutewallpaper.org/21/blackjack-wallpaper/Casino-Game-Wallpapers-Top-Free-Casino-Game-Backgrounds-.jpg);
+    text-align: center;
+}
+#blackjack{
+    font-weight: 20px;
+    margin-top: 40px;
+    color:goldenrod;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#cards{
+    font-weight: 20px;
+    margin-top: -10px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#start{
+    background-color: goldenrod;
+    width: 200px;
+    height: 40px;
+    margin-top: 20px;
+    text-shadow: 2px;
+    color: white;
+    text-shadow: 2px;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 17px;
+    border: none;
+    border-radius: 4px;
+}
